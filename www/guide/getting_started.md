@@ -15,6 +15,7 @@
 * 锤子 - 甩锅给导演填坑
 * 小米 - [申请解锁小米手机](http://www.miui.com/unlock/index.html)
 * 一加 - 甩锅给电大填坑
+* 三星 - 开发者设置里面点选OEM解锁
 * 整理中...
 
 ## 通过 fastboot 安装 Recovery
